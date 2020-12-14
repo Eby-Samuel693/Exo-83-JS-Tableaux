@@ -1,4 +1,4 @@
-Exercice 3 :
+0Exercice 3 :
 
     - Afficher la taille de votre tableau en utilisant l'instruction qui convient dans le div "viewport"
 
